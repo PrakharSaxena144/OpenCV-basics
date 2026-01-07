@@ -1,5 +1,7 @@
-👁️ OpenCV-Basics
-Welcome to the OpenCV-Basics repository! This project serves as a comprehensive starter guide for mastering computer vision concepts using the powerful OpenCV library.
+
+
+## 👁️ OpenCV-Basics
+#### Welcome to the OpenCV-Basics repository! This project serves as a comprehensive starter guide for mastering computer vision concepts using the powerful OpenCV library.
 
 🎯 Project Goals
 The main objective of this repository is to bridge the gap between theoretical image processing and practical application. By the end of this module, you will be able to:
@@ -34,3 +36,4 @@ Edge Detection: Using Canny edge operators.
 
 4. Face Detection
 Implement the Haar Cascade classifier or DNN-based methods to identify human faces within a frame.
+
